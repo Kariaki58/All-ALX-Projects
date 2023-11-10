@@ -55,6 +55,24 @@ drwx--x--x 2 julien julien 4096 Sep 20 14:49 dir0
 drwx--x--x 2 julien julien 4096 Sep 20 14:49 dir1
 drwx--x--x 2 julien julien 4096 Sep 20 14:49 dir2
 -rw-rw-r-- 1 julien julien   23 Sep 20 14:25 hello
-julien@ubuntu:/tmp/h$ 
+julien@ubuntu:/tmp/h$
 
+julien@ubuntu:/tmp/h$ ls -l
+total 24
+-rwxrwxr-x 1 julien julien   36 Sep 20 15:06 100-change_owner_and_group
+drwx--x--x 2 julien julien 4096 Sep 20 14:49 dir0
+drwx--x--x 2 julien julien 4096 Sep 20 14:49 dir1
+drwx--x--x 2 julien julien 4096 Sep 20 14:49 dir2
+drwxr-x--x 2 julien julien 4096 Sep 20 14:59 my_dir
+-rw-rw-r-- 1 julien julien   23 Sep 20 14:25 hello
+julien@ubuntu:/tmp/h$ sudo ./100-change_owner_and_group 
+julien@ubuntu:/tmp/h$ ls -l
+total 24
+-rwxrwxr-x 1 vincent staff   36 Sep 20 15:06 100-change_owner_and_group
+drwx--x--x 2 vincent staff 4096 Sep 20 14:49 dir0
+drwx--x--x 2 vincent staff 4096 Sep 20 14:49 dir1
+drwx--x--x 2 vincent staff 4096 Sep 20 14:49 dir2
+drwxr-x--x 2 vincent staff 4096 Sep 20 14:59 my_dir
+-rw-rw-r-- 1 vincent staff   23 Sep 20 14:25 hello
+julien@ubuntu:/tmp/h$ 
 ```
