@@ -56,25 +56,13 @@ you can study them by using...
 ### Man Or Help
 
 - chmod
-
 - sudo
-
 - su
-
 - chown
-
 - chgrp
-
 - id
-
 - groups
-
 - whoami
-
 - adduser
-
 - useradd
-
 - addgroup
-
-
