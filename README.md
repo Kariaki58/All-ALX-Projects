@@ -1,3 +1,5 @@
+### Solving All Alx Task Here
+**Hi ASK me about linux | c | python**
 ### Shell Basics
 
 Learning about shell
