@@ -66,3 +66,31 @@ you can study them by using...
 - adduser
 - useradd
 - addgroup
+
+### Shell, I/O Redirections and filters
+
+**Resources**
+
+Read or Watch:
+[Shell, I/O Redirection](https://intranet.alxswe.com/rltoken/fGOQQXRKbvOcd1qLRxHzLQ)
+[Special Characters](https://intranet.alxswe.com/rltoken/c1pz13vke3HPH0S8iALbtw)
+
+**man or help:**
+
+- echo
+- cat
+- head
+- tail
+- find
+- wc
+- sort
+- uniq
+- grep
+- tr
+- rev
+- cut
+- passwd (5) (i.e man 5 passwd)
+
+**More Info**
+Read your /etc/passwd and /etc/shadow files.
+Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk yet.
