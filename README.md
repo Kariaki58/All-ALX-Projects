@@ -40,4 +40,41 @@ julien@ubuntu:/tmp$ ./lll
 lll
 
 julien@ubuntu:/tmp$
+
 ```
+
+### Shell, permissions
+
+** Learn about shell Permissions **
+
+Resources
+
+[Permissions](https://intranet.alxswe.com/rltoken/aQmRB6ms-SDHUhqY0Rsa3g)
+
+you can study them by using...
+
+### Man Or Help
+
+- chmod
+
+- sudo
+
+- su
+
+- chown
+
+- chgrp
+
+- id
+
+- groups
+
+- whoami
+
+- adduser
+
+- useradd
+
+- addgroup
+
+
