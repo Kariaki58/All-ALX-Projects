@@ -98,3 +98,24 @@ Read or Watch:
 Read your /etc/passwd and /etc/shadow files.
 
 Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk yet.
+
+### Shell, init files, variables and expansions
+
+Learning More About Bash
+
+**Resources**
+ - [Expansions](https://intranet.alxswe.com/rltoken/oXnzBjLBA9t9dr7WuftdmQ)
+ - [Shell Arithmetic](https://intranet.alxswe.com/rltoken/PLSUQnBcKKU5eEgRfRDlug)
+ - [Varibles](https://intranet.alxswe.com/rltoken/SvdGNZJjKsPghzZEhaWu4Q)
+ - [Shell initialization files](https://intranet.alxswe.com/rltoken/tqud57kjsSYgDfeZDlwl3g)
+
+**man or help**
+ - printenv
+ - set
+ - unset
+ - export
+ - alias
+ - unalias
+ - .
+ - source
+ - printf
