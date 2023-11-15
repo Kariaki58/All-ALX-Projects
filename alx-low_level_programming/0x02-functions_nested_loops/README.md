@@ -8,3 +8,4 @@
 -[C-Header Files](https://intranet.alxswe.com/rltoken/AS8JW4ObD5gmyX2mgtqV0A)
 -[function prototype](https://intranet.alxswe.com/rltoken/XZ--UJZO76ZoUWNA9bTmbg)
 
+you need to be a student to have the functions.

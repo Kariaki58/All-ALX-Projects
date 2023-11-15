@@ -8,7 +8,7 @@ int main(void)
     a = 1;
     b = 2;
     printf("%ld, %ld, ", a, b);
-    for (i = 0; i < 50; i++)
+    for (i = 2; i < 50; i++)
     {
         c = a + b;
         a = b;
