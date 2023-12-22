@@ -1,6 +1,15 @@
 #include "main.h"
 
 /**
+<<<<<<< HEAD
+ * is_prime_number - check if is n is prime
+ * @n: n
+ * Return: 1 | 0
+ */
+int is_prime_number(int n)
+{
+	/*I don't have time*/
+=======
  * _sqrt - find square root of n
  * @n: n
  * @x: x
@@ -49,4 +58,5 @@ int is_prime_number(int n)
 		return (0);
 	check = generate_number(n, 2);
 	return (check);
+>>>>>>> 7e36ba1855832dc993527d97f42e8ed5dd14d9c2
 }

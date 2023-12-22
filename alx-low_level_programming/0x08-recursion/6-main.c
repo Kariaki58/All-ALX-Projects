@@ -27,4 +27,8 @@ int main(void)
     r = is_prime_number(7919);
     printf("%d\n", r);
     return (0);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7e36ba1855832dc993527d97f42e8ed5dd14d9c2
