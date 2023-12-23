@@ -12,21 +12,15 @@
 */
 int main(int argc, char **argv)
 {
-    int i;
-    char *operators[] = {"+", "-", "*", "/", "%"};
-    int num = atoi(argv[1]);
-    int num2 = atoi(argv[3]);
-    int (*function)();
-    if (argc != 3)
-    {
-        printf("Error\n");
-         
-    }
-    for (i = 0; i < argc; i++)
-    {
-        if (argv[2] == operators[i])
-        {
-            
-        }
-    }
+	int (*operator)(int, int);
+
+	if (argc != 4)
+	{
+		exit(98);
+	}
+	operator = get_op_func(argv[2]);
+	if (operator == 0)
+		exit(99);
+	printf("%d\n", operator(atoi(argv[1]), atoi(argv[3])));
+	return (0);
 }
