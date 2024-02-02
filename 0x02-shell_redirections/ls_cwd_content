@@ -1,0 +1,15 @@
+total 48
+drwxrwxr-x 2 kariaki kariaki 4096 Feb  2 05:26 .
+drwxrwxr-x 9 kariaki kariaki 4096 Feb  1 05:10 ..
+-rwxrw-r-- 1 kariaki kariaki   33 Feb  2 05:08 0-hello_world
+-rwxrw-r-- 1 kariaki kariaki   29 Feb  2 05:09 1-confused_smiley
+-rwxrw-r-- 1 kariaki kariaki   28 Feb  2 05:10 2-hellofile
+-rwxrw-r-- 1 kariaki kariaki   39 Feb  2 05:11 3-twofiles
+-rwxrw-r-- 1 kariaki kariaki   41 Feb  2 05:16 4-lastlines
+-rwxrw-r-- 1 kariaki kariaki   41 Feb  2 05:17 5-firstlines
+-rwxrw-r-- 1 kariaki kariaki   46 Feb  2 05:18 6-third_line
+-rwxrw-r-- 1 kariaki kariaki   56 Feb  2 05:21 7-file
+-rwxrw-r-- 1 kariaki kariaki   36 Feb  2 05:26 8-cwd_state
+-rw-rw-r-- 1 kariaki kariaki    0 Feb  2 05:22 \*\\'"Best School"\'\\*$\?
+-rw-rw-r-- 1 kariaki kariaki  744 Feb  2 05:19 iacta
+-rw-rw-r-- 1 kariaki kariaki    0 Feb  2 05:26 ls_cwd_content
